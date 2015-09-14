@@ -1,0 +1,9 @@
+C:\Users\Craig\Desktop\CIS 202 Programs\CODE\CODE\bin\Debug\CODE.exe.config
+C:\Users\Craig\Desktop\CIS 202 Programs\CODE\CODE\bin\Debug\CODE.exe
+C:\Users\Craig\Desktop\CIS 202 Programs\CODE\CODE\bin\Debug\CODE.pdb
+C:\Users\Craig\Desktop\CIS 202 Programs\CODE\CODE\obj\Debug\CODE.csprojResolveAssemblyReference.cache
+C:\Users\Craig\Desktop\CIS 202 Programs\CODE\CODE\obj\Debug\CODE.frmMain.resources
+C:\Users\Craig\Desktop\CIS 202 Programs\CODE\CODE\obj\Debug\CODE.Properties.Resources.resources
+C:\Users\Craig\Desktop\CIS 202 Programs\CODE\CODE\obj\Debug\CODE.csproj.GenerateResource.Cache
+C:\Users\Craig\Desktop\CIS 202 Programs\CODE\CODE\obj\Debug\CODE.exe
+C:\Users\Craig\Desktop\CIS 202 Programs\CODE\CODE\obj\Debug\CODE.pdb
